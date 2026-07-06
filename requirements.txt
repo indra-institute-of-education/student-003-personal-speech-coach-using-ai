@@ -1,0 +1,28 @@
+# Personal Speech Coach - Requirements
+# Install: pip install -r requirements.txt
+# Note: ffmpeg must be installed separately for non-WAV audio support
+#       Linux: sudo apt install ffmpeg
+#       Windows/Mac: https://ffmpeg.org/download.html
+
+# ── Web UI ────────────────────────────────────────────────────────────────────
+streamlit>=1.31.0          # 1.31+ required for st.audio_input (live recording)
+
+# ── Audio processing ──────────────────────────────────────────────────────────
+librosa==0.10.1
+soundfile==0.12.1
+audioread==3.0.0
+pydub==0.25.1              # multi-format conversion (needs ffmpeg)
+scipy==1.11.2
+
+# ── Machine learning ──────────────────────────────────────────────────────────
+scikit-learn==1.3.0
+joblib==1.3.2
+
+# ── Data & visualisation ──────────────────────────────────────────────────────
+numpy==1.24.3
+pandas==2.0.3
+matplotlib==3.7.2
+plotly==5.17.0
+
+# ── Optional extras ───────────────────────────────────────────────────────────
+fpdf==1.7.2                # PDF report export (future feature)
