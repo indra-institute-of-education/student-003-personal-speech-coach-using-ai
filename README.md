@@ -12,14 +12,14 @@ The **Personal Speech Coach Using AI** is designed to assist students, professio
 
 ## ✨ Features
 
-* 🎙️ Speech Upload/Recording
-* 🤖 AI-Based Speech Analysis
-* 🗣️ Pronunciation Evaluation
-* 📊 Fluency Assessment
-* 💬 Personalized Feedback
-* 📈 Speech Performance Report
-* 🎯 Suggestions for Improvement
-* 💻 Simple and User-Friendly Interface
+- 🎙️ Speech Upload/Recording
+- 🤖 AI-Based Speech Analysis
+- 🗣️ Pronunciation Evaluation
+- 📊 Fluency Assessment
+- 💬 Personalized Feedback
+- 📈 Speech Performance Report
+- 🎯 Suggestions for Improvement
+- 💻 Simple and User-Friendly Interface
 
 ---
 
@@ -27,19 +27,19 @@ The **Personal Speech Coach Using AI** is designed to assist students, professio
 
 ### Frontend
 
-* HTML5
-* CSS3
+- HTML5
+- CSS3
 
 ### Backend
 
-* Python
-* Flask
+- Python
+- Flask
 
 ### AI Libraries
 
-* SpeechRecognition
-* NumPy
-* Scikit-learn
+- SpeechRecognition
+- NumPy
+- Scikit-learn
 
 ---
 
@@ -48,7 +48,7 @@ The **Personal Speech Coach Using AI** is designed to assist students, professio
 ```text
 student-003-personal-speech-coach-using-ai/
 │
-├── screenshots/
+├── screenshot/
 │   ├── 1.PNG
 │   ├── 2.PNG
 │   └── 3.PNG
@@ -125,32 +125,30 @@ The application will start on your local machine.
 
 ## 📸 Screenshots
 
+| 🎤 Speech Analysis | 📊 AI Integration |
+|-------------------|-------------------|
+| <img src="screenshot/3.PNG" alt="Speech Analysis" width="100%"> | <img src="screenshot/2.PNG" alt="AI Integration" width="100%"> |
+
+<br>
+
+<div align="center">
+
 ### 🏠 Home Page
 
-![Home Page](screenshot/1.PNG)
+<img src="screenshot/1.PNG" alt="Home Page" width="85%">
 
----
-
-### 🎤 Speech Analysis
-
-![Speech Analysis](screenshot/3.PNG)
-
----
-
-### 📊 AI Integration
-
-![Result Page](screenshot/2.PNG)
+</div>
 
 ---
 
 ## 🎯 Future Enhancements
 
-* Real-time speech coaching
-* Multi-language support
-* Emotion analysis
-* Voice confidence scoring
-* AI conversation practice
-* Cloud deployment
+- Real-time speech coaching
+- Multi-language support
+- Emotion analysis
+- Voice confidence scoring
+- AI conversation practice
+- Cloud deployment
 
 ---
 
@@ -158,11 +156,11 @@ The application will start on your local machine.
 
 Contributions are welcome!
 
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Push to your branch
-5. Open a Pull Request
+1. Fork the repository.
+2. Create a new branch.
+3. Commit your changes.
+4. Push to your branch.
+5. Open a Pull Request.
 
 ---
 
@@ -179,4 +177,3 @@ Student AI Project
 If you like this project, don't forget to **⭐ Star** the repository on GitHub!
 
 ---
-
