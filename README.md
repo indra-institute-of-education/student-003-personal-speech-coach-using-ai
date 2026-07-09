@@ -127,19 +127,19 @@ The application will start on your local machine.
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/1.PNG)
+![Home Page](screenshot/1.PNG)
 
 ---
 
 ### 🎤 Speech Analysis
 
-![Speech Analysis](screenshots/3.PNG)
+![Speech Analysis](screenshot/3.PNG)
 
 ---
 
 ### 📊 AI Integration
 
-![Result Page](screenshots/2.PNG)
+![Result Page](screenshot/2.PNG)
 
 ---
 
