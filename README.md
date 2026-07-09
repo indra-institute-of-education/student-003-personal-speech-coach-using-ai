@@ -12,38 +12,46 @@ The **Personal Speech Coach Using AI** is designed to assist students, professio
 
 ## ✨ Features
 
-- 🎙️ Speech Upload/Recording
-- 🤖 AI-Based Speech Analysis
-- 🗣️ Pronunciation Evaluation
-- 📊 Fluency Assessment
-- 💬 Personalized Feedback
-- 📈 Speech Performance Report
-- 🎯 Suggestions for Improvement
-- 💻 Simple and User-Friendly Interface
+* 🎙️ Speech Upload/Recording
+* 🤖 AI-Based Speech Analysis
+* 🗣️ Pronunciation Evaluation
+* 📊 Fluency Assessment
+* 💬 Personalized Feedback
+* 📈 Speech Performance Report
+* 🎯 Suggestions for Improvement
+* 💻 Simple and User-Friendly Interface
 
 ---
 
 ## 🛠️ Technologies Used
 
 ### Frontend
-- HTML5
-- CSS3
+
+* HTML5
+* CSS3
 
 ### Backend
-- Python
-- Flask
+
+* Python
+* Flask
 
 ### AI Libraries
-- SpeechRecognition
-- NumPy
-- Scikit-learn
+
+* SpeechRecognition
+* NumPy
+* Scikit-learn
 
 ---
 
 ## 📁 Project Structure
 
-```
+```text
 student-003-personal-speech-coach-using-ai/
+│
+├── screenshots/
+│   ├── 1.PNG
+│   ├── 2.PNG
+│   └── 3.PNG
 │
 ├── static/
 │   ├── css/
@@ -74,14 +82,14 @@ cd student-003-personal-speech-coach-using-ai
 
 ### Create a Virtual Environment (Optional)
 
-**Windows**
+#### Windows
 
 ```bash
 python -m venv venv
 venv\Scripts\activate
 ```
 
-**Linux/macOS**
+#### Linux/macOS
 
 ```bash
 python3 -m venv venv
@@ -109,37 +117,40 @@ The application will start on your local machine.
 1. Open the application.
 2. Upload or record a speech.
 3. The AI processes the speech.
-4. Receive detailed speech analysis.
-5. Practice using the provided suggestions.
+4. Analyzes pronunciation and fluency.
+5. Generates a speech performance report.
+6. Provides personalized suggestions for improvement.
 
 ---
 
 ## 📸 Screenshots
 
-### Home Page
+### 🏠 Home Page
 
-![Home](docs/screenshots/home.png)
+![Home Page](screenshots/1.PNG)
 
-### Speech Analysis
+---
 
-![Analysis](docs/screenshots/analysis.png)
+### 🎤 Speech Analysis
 
-### Results
+![Speech Analysis](screenshots/3.PNG)
 
-![Results](docs/screenshots/results.png)
+---
 
-> Replace the images above with your project screenshots.
+### 📊 AI Integration
+
+![Result Page](screenshots/2.PNG)
 
 ---
 
 ## 🎯 Future Enhancements
 
-- Real-time speech coaching
-- Multi-language support
-- Emotion analysis
-- Voice confidence scoring
-- AI conversation practice
-- Cloud deployment
+* Real-time speech coaching
+* Multi-language support
+* Emotion analysis
+* Voice confidence scoring
+* AI conversation practice
+* Cloud deployment
 
 ---
 
@@ -169,6 +180,3 @@ If you like this project, don't forget to **⭐ Star** the repository on GitHub!
 
 ---
 
-## 📄 License
-
-This project is developed for educational purposes.
